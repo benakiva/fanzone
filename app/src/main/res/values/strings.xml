@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fanzone</string>
+    <string name="title_activity_timeline">TimelineActivity</string>
+
+    <string name="created_secago">1 second ago</string>
+    <string name="created_secsago">{s} seconds ago</string>
+    <string name="created_minago">1 minute ago</string>
+    <string name="created_minsago">{m} minutes ago</string>
+    <string name="created_hourago">1 hour ago</string>
+    <string name="created_hoursago">{h} hours ago</string>
+    <string name="created_dayago">1 day ago</string>
+    <string name="created_daysago">{d} days ago</string>
+    <string name="posttweet_posting">Tweeting…</string>
+    <string name="postview_post">Post</string>
+    <string name="posttweet_title">New Tweet</string>
+    <string name="posttweet_post">Tweet</string>
+    <string name="posttweet_includelink">include link to this page</string>
+
+    <string name="minutes">%dm</string>
+    <string name="day">%dd</string>
+    <string name="hours">%dh</string>
+    <string name="weeks">%dw</string>
+
+    <string name="max_num_char">140</string>
+
+    <string name="send_tweet">Tweet</string>
+
+    <string name="post_ok">Tweet posted successfully</string>
+    <string name="post_fail">Tweet post failed</string>
+</resources>
